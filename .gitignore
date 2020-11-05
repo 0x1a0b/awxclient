@@ -24,7 +24,7 @@
 *.secret.txt
 
 # intellij
-.idea/**
+**idea/**
 
 
 # other stuff
